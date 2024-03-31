@@ -1,0 +1,32 @@
+@ContosoPizza_HostAddress = http://localhost:5012
+
+### Get all pizzas
+GET http://localhost:5000/Pizza
+Content-Type: application/json
+
+### Get pizza by ID
+GET http://localhost:5000/Pizza/1
+Content-Type: application/json
+
+### Create a new pizza
+POST http://localhost:5000/Pizza
+Content-Type: application/json
+
+{
+  "name": "Classic Margherita",
+  "isGlutenFree": false
+}
+
+### Update pizza
+PUT http://localhost:5000/Pizza/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "Gluten-Free Margherita",
+  "isGlutenFree": true
+}
+
+### Delete pizza
+DELETE http://localhost:5000/Pizza/1
+Content-Type: application/json
