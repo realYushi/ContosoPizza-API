@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yushi/development/csharp/ContosoPizza/ContosoPizza.csproj": {}
+    "/Users/yushi/development/ContosoPizzaAPI/ContosoPizza.csproj": {}
   },
   "projects": {
-    "/Users/yushi/development/csharp/ContosoPizza/ContosoPizza.csproj": {
+    "/Users/yushi/development/ContosoPizzaAPI/ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yushi/development/csharp/ContosoPizza/ContosoPizza.csproj",
+        "projectUniqueName": "/Users/yushi/development/ContosoPizzaAPI/ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "/Users/yushi/development/csharp/ContosoPizza/ContosoPizza.csproj",
+        "projectPath": "/Users/yushi/development/ContosoPizzaAPI/ContosoPizza.csproj",
         "packagesPath": "/Users/yushi/.nuget/packages/",
-        "outputPath": "/Users/yushi/development/csharp/ContosoPizza/obj/",
+        "outputPath": "/Users/yushi/development/ContosoPizzaAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yushi/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vKh+ihvIxiBT5aWTMYG8qjIkmzlcuTsvgdOXfA5F44LO2DcHHwp29N8rxy5Qv+tsuMK81t0J7vUbJRT3Nyn/fg==",
+  "dgSpecHash": "EeKywpzk1Jw803wKT2smbK2b2KPxDcwZkXul59QMurCsW+Choe8CdfIhrSfjyzN856tuX17+r5+GundrQwsobQ==",
   "success": true,
-  "projectFilePath": "/Users/yushi/development/csharp/ContosoPizza/ContosoPizza.csproj",
+  "projectFilePath": "/Users/yushi/development/ContosoPizzaAPI/ContosoPizza.csproj",
   "expectedPackageFiles": [
     "/Users/yushi/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/yushi/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
